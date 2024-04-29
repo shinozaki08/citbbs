@@ -20,7 +20,7 @@ nav a {
     color: #333;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 720px) {
     div {
         width: 100%; /* モバイルデバイス用に全幅を使用 */
         padding: 0;
